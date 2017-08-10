@@ -1,0 +1,21 @@
+#+TITLE: A language already in production...
+
+This repository exists to bring absolution to would-be Racketeers
+wishing to write production services in Racket (not responsible for
+disciplinary action).
+
+* Installation
+From inside the root of this project directory:
+
+#+BEGIN_SRC shell
+  raco pkg install
+#+END_SRC
+
+
+* Example usage
+#+BEGIN_SRC racket
+  #lang alanguagealreadyinproductionatsocrata
+
+  (print "This is totes legit")
+
+#+END_SRC
